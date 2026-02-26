@@ -1,2 +1,2 @@
 -- script to list all databases;
-SHOW DATABASES;
+SELECT * FROM first_table;
